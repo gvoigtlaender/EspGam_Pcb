@@ -1,2 +1,2 @@
-# EspGam_Pcb
+# EspGame_Pcb
 PCB for EspGame
